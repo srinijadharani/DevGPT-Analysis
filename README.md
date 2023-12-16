@@ -8,5 +8,16 @@ The current project status report encapsulates our research endeavors centered o
 2. What programming languages queries/prompts do developers ask ChatGPT? Exploring language preferences change over time? - Roochita Ikkurthy
 3. What are the most common prompts that developers ask ChatGPT? How does ChatGPT answer those prompts? - Srinija Dharani
 
+## Approach
+Refer to the Final Report for the detailed approach for each reseacrch question.
+
+## Conclusion
+
+1.	Code Versus No-Code Solutions: We analyzed what kinds of prompts developers normally asked ChatGPT. We found out that ChatGPT was asked to write scripts, generate code, and give examples of a particular concept. ChatGPT mostly gave code solutions to questions like these, but there were also very predominant no-code solutions where the developer and ChatGPT had conversations about some concepts.
+2.	Programming Language Versus Categories:  Our analysis provides a detailed overview of the recent GitHub repository interactions, shedding light on language diversity, prompt categorization, and potential areas for further exploration. 
+3.	Conversation Length: The results indicate that the type of issue presented enforces conversation length change and provides insight for developers about how to predict the length based on the issue presented.
+![image](https://github.com/srinijadharani/SEngg-Project/assets/61744464/6a1d4ec7-3b8b-4980-be14-8649e0309e18)
+
+
 ## Status Report
 Please check - [Status Report](https://github.com/srinijadharani/SEngg-Project/blob/main/Group22_Status%20Report.pdf)
