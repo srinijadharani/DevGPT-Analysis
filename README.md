@@ -9,7 +9,7 @@ The current project status report encapsulates our research endeavors centered o
 3. What are the most common prompts that developers ask ChatGPT? How does ChatGPT answer those prompts? - Srinija Dharani
 
 ## Approach
-Refer to the [Final Report](https://github.com/srinijadharani/SEngg-Project/blob/main/Group%206%20FInal%20Report.pdf) for the detailed approach for each reseacrch question.
+Refer to the [Final Report](https://github.com/srinijadharani/SEngg-Project/blob/main/Group%2022%20FInal%20Report.pdf) for the detailed approach for each reseacrch question.
 
 ## Conclusion
 
